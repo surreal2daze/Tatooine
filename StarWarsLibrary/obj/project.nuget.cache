@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p4+q7BFYFNkwkWWUAw0QoSmPUmuT8U6Yp9RBHa1X9GAxF/czm8QDG/7rUjgXNFKHvtbbcrjzAnCoGUZi/5mD7w==",
+  "success": true,
+  "projectFilePath": "C:\\Tatooine\\StarWarsLibrary\\StarWarsLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\DEVILEM\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
